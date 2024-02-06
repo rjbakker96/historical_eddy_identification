@@ -1,0 +1,13 @@
+name: Eddies_Demo
+title: Eddies_Demo
+username: y2pwfy-roderick-bakker
+account: y2pwfy-roderick-bakker
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10925218
+bundleId: 8225200
+url: https://y2pwfy-roderick-bakker.shinyapps.io/Eddies_Demo/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: component_storage.R|data/1_a_data_profiles_filt_select.csv|data/1_a_data_profiles_means.csv|data/1_data_eddy_filt.csv|data/2_data_bootstrap_outcomes_summary.csv|data/map_coordinates.csv|data_subsetting.R
